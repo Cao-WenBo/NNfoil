@@ -1,4 +1,4 @@
-# A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation
+# A solver for subsonic flow around airfoils based on physics-informed neural networks and mesh transformation [arXiv:2401.08705]
 
 ## Abstract
 
